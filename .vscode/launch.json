@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pizza_delivery_api",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
